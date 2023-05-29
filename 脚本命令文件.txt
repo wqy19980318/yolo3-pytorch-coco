@@ -1,0 +1,1 @@
+python coco2voc.py --json_path D:\\pycharm_python_project\\yolo3-pytorch-bilibili-1\\coco2014\\annotations\\instances_val2014.json  --output D:\\pycharm_python_project\\yolo3-pytorch-bilibili-1\\VOCdevkit\\VOC2007\\Annotations
